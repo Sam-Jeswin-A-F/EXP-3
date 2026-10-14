@@ -1,17 +1,15 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
-
+## EXPT NO: 3			
+STAIR CASE WIRING                     
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
+## APPARATUS REQUIRED:
 
-1	Incandescent Lamp	60W	1 No.
+|S. No.| Name of the apparatus	|Range / Type	|Quantity|
+
+|1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
 4	Wires	1/18”	As per requirement
@@ -39,12 +37,18 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection:
+CIRCUIT DIAGRAM: 
+<img width="1227" height="742" alt="Screenshot 2026-10-14 162102" src="https://github.com/user-attachments/assets/bf6b345f-b32d-4a99-9b06-cab3f3a11612" />
+
 Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+<img width="1224" height="1300" alt="Table 1" src="https://github.com/user-attachments/assets/b881160d-832e-4da7-ba27-3fb8c46c9c79" />
+
+Cross connection:
+CIRCUIT DIAGRAM:
 
 Tabulation:2
+<img width="1320" height="1388" alt="Table 2" src="https://github.com/user-attachments/assets/8798866d-cb27-4b0e-a501-6f3d692e7e3f" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
